@@ -1,7 +1,7 @@
 // Add your Circle class here
 
-class Bird{
-  constructor(){
-    
+class Circle{
+  constructor(radius){
+    this.radius = name;
   }
 }
