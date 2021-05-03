@@ -11,5 +11,8 @@ class Circle{
   get circumference{
     
   }
-  get 
+  get area {
+    
+  }
+  
 }
