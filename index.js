@@ -12,7 +12,7 @@ class Circle{
     
   }
   get area {
-    
+   return π * this.radius2
   }
   
 }
